@@ -1,1 +1,1 @@
-# proyecto-finanazas-personales
+# proyecto-finanzas-personales
